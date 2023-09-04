@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="927a6143-99fa-4ab7-b29c-31b27ba034cd" name="Changes" comment="Added SQ files">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/CustomQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/CustomStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/DequeExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/DynamicStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/InBuiltExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/QueueMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/StackMain.java" afterDir="false" />
-    </list>
+    <list default="true" id="927a6143-99fa-4ab7-b29c-31b27ba034cd" name="Changes" comment="Added SQ files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +46,15 @@
       <option name="presentableId" value="Default" />
       <updated>1693706054868</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added SQ files">
+      <option name="closed" value="true" />
+      <created>1693785675481</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693785675481</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
